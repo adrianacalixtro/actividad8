@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding: 0;
+    color: aquamarine;
+}
+h1{
+    color: blue;
+    margin: 10px;
+    font-size: 30;
+}
+h2{
+    font-size: 25px;
+    color: orange;
+    margin: 15px
+}
+p{
+font-size: 15px;
+}
+.texto{
+    font-size: 20px;
+    color: blueviolet;
+}
+div{
+    margin: 10px auto;
+    width: 400px;
+    border-style: solid;
+}
